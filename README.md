@@ -1,4 +1,4 @@
-# Szyfrowanie AES w Pythonie
+# Szyfrowanie i deszyfrowanie AES w Pythonie
 
 ## Opis projektu
 Projekt implementuje algorytm szyfrowania AES (Advanced Encryption Standard) w języku Python. Program pozwala na kodowanie i odkodowanie tekstu przy użyciu podanego klucza, wykorzystując podstawowe operacje stosowane w AES: SubBytes, ShiftRows, MixColumns i AddRoundKey.
